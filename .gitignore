@@ -1,0 +1,15 @@
+### OSX ###
+.DS_Store
+.vscode
+docs
+
+### Python ###
+__pycache__/
+venv/
+
+### Django ###
+.env
+log/*
+!log/.gitkeep
+static
+
